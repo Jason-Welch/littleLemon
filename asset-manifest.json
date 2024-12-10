@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/littleLemon/static/css/main.c64dc6e0.css",
-    "main.js": "/littleLemon/static/js/main.8671c4fb.js",
-    "static/js/453.8dae57ee.chunk.js": "/littleLemon/static/js/453.8dae57ee.chunk.js",
-    "static/media/restauranfood.jpg": "/littleLemon/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/Logo .svg": "/littleLemon/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
-    "index.html": "/littleLemon/index.html",
-    "main.c64dc6e0.css.map": "/littleLemon/static/css/main.c64dc6e0.css.map",
-    "main.8671c4fb.js.map": "/littleLemon/static/js/main.8671c4fb.js.map",
-    "453.8dae57ee.chunk.js.map": "/littleLemon/static/js/453.8dae57ee.chunk.js.map"
+    "main.css": "/static/css/main.c64dc6e0.css",
+    "main.js": "/static/js/main.7e75c3a5.js",
+    "static/js/453.8dae57ee.chunk.js": "/static/js/453.8dae57ee.chunk.js",
+    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo .svg": "/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
+    "index.html": "/index.html",
+    "main.c64dc6e0.css.map": "/static/css/main.c64dc6e0.css.map",
+    "main.7e75c3a5.js.map": "/static/js/main.7e75c3a5.js.map",
+    "453.8dae57ee.chunk.js.map": "/static/js/453.8dae57ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c64dc6e0.css",
-    "static/js/main.8671c4fb.js"
+    "static/js/main.7e75c3a5.js"
   ]
 }
